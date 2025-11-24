@@ -1,4 +1,5 @@
-## 👋 Hi! I'm Eduardo Quirino<br><br>My name is **Eduardo Quirino Teixeira da Silva**, I'm from **Ouro Branco – Minas Gerais, Brazil**, and I have over **3 years of programming experience**. I’m currently a **Mechatronics Engineering student at UFSJ**, where I also work as the **Infrastructure Manager for University Projects**.<br><br>I work as a **Full Stack Developer**, but my main focus is on **Back-end**, with strong hands-on experience in **DevOps**, which is where I spend most of my time.<br>I enjoy building robust, automated, and scalable solutions, always aiming to improve processes and deliver well-structured systems — from architecture to deployment.
+## 👋 Hi! I'm Eduardo Quirino<br><br>
+###My name is **Eduardo Quirino Teixeira da Silva**, I'm from **Ouro Branco – Minas Gerais, Brazil**, and I have over **3 years of programming experience**. I’m currently a **Mechatronics Engineering student at UFSJ**, where I also work as the **Infrastructure Manager for University Projects**.<br><br>I work as a **Full Stack Developer**, but my main focus is on **Back-end**, with strong hands-on experience in **DevOps**, which is where I spend most of my time.<br>I enjoy building robust, automated, and scalable solutions, always aiming to improve processes and deliver well-structured systems — from architecture to deployment.
 
 
 ## 🌐 Socials:
